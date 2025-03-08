@@ -1,4 +1,4 @@
-name = ("Please enter your name here :")
+name = input("Please enter your name here :")
 age = int(input("Please enter your age :"))
 
 if age >= 18:
